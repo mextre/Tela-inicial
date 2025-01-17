@@ -462,7 +462,7 @@ legend + * {
 }
 
 ::-webkit-color-swatch-wrapper {
-  padding: 0;
+  padding: 0; 
 }
 
 output {
